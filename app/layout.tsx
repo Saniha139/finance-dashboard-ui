@@ -10,23 +10,6 @@ export const metadata: Metadata = {
   title: 'Finance Dashboard - Track Your Financial Activity',
   description: 'A modern finance dashboard to track income, expenses, and visualize your financial data with insights and analytics.',
   generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
 }
 
 export default function RootLayout({
