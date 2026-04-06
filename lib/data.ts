@@ -71,18 +71,18 @@ export const expenseCategories: TransactionCategory[] = [
 ];
 
 export const initialProfile: UserProfile = {
-  name: "Rahul Sharma",
-  email: "rahul.sharma@email.com",
-  phone: "+91 98765 43210",
+  name: "Saniha Manjunath",
+  email: "sanihamanjunath139@gmail.com",
+  phone: "+91 99999 99999",
   avatar: "",
   panNumber: "ABCDE1234F",
   bankAccount: "XXXX XXXX 4589",
   ifscCode: "HDFC0001234",
-  upiId: "rahul@okicici",
+  upiId: "snm@okicici",
   address: "123, Sector 45",
-  city: "Gurugram",
-  state: "Haryana",
-  pincode: "122003",
+  city: "Banagalore",
+  state: "Karnataka",
+  pincode: "1234567",
   memberSince: "January 2024",
 };
 
